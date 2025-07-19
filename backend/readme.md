@@ -14,9 +14,9 @@ Briefly describe what the frontend does and its main features.
 
 ## Installation
 ```bash
-git clone <repo-url>
-cd frontend
+git clone <https://github.com/Danizolo/MenuCardExtraction/tree/main/backend>
+cd backend
 npm install
-npm run serve
+npm start
 
 
