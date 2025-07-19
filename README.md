@@ -19,4 +19,7 @@ cd frontend
 npm install
 npm run serve
 
+Note: both backend and frontend should be present in any root folder
+
+
 
